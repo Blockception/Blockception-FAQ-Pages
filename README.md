@@ -1,8 +1,8 @@
 # FAQ - Pages
 
-The repository that stores the pages for the blockception related FAQ
+The repository that stores the pages for the blockception related FAQ. Its built using the [hugo engine](https://gohugo.io/)
 
-https://blockception.github.io/FAQ-Pages/
+https://faq.blockception.dev/
 
 ## To run a preview server:
 
