@@ -10,5 +10,5 @@ Make sure Hugo is installed. execute the following:
 
 ```
 cd docs
-hugo server -t hugo-theme-techdoc
+hugo server -D
 ```
