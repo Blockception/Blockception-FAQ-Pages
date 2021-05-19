@@ -9,4 +9,4 @@ provides support for minecraft bedrock
 
 ## Is activated
 
-Follow this [step plan]({{<ref "vscode-extension-mcpe/is_activated.md">}}) to check if the plugin is activated or reporting any errors
+Follow this [step plan]({{<ref "is_activated.md">}}) to check if the plugin is activated or reporting any errors
