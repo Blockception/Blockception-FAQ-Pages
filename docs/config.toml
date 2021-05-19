@@ -1,0 +1,32 @@
+baseURL = "http://faq.blockception.dev/"
+languageCode = "en-us"
+title = "Blockception - FAQ"
+theme = "hugo-theme-techdoc"
+
+[params]
+  menu_style = "slide_menu"
+  
+  # Source Code repository section
+  github_repository = "https://github.com/Blockception/FAQ-Pages"
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "Blockception"
+  site = "https://www.blockception.com/"
+
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.goldmark.renderer]
+        unsafe= true
+    [markup.tableOfContents]
+        startLevel = 2
+        endLevel = 6
+        ordered = false
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
