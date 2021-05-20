@@ -1,3 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "faq.blockception.dev"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Blockception Developer FAQ"
+
+theme = "ananke"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 0
