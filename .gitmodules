@@ -7,3 +7,6 @@
 [submodule "docs/themes/ace-documentation"]
 	path = docs/themes/ace-documentation
 	url = https://github.com/vantagedesign/ace-documentation.git
+[submodule "docs/themes/ananke"]
+	path = docs/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
