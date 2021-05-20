@@ -2,7 +2,7 @@ baseURL = "faq.blockception.dev"
 languageCode = "en-us"
 title = "Blockception Developer FAQ"
 
-theme = "ananke"
+theme = "blockception"
 
 [markup]
   [markup.tableOfContents]

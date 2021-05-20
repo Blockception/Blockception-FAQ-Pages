@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    {{ range first 10 .Data.Pages }}
+    <div class="page-ref">
+      <a href="{{ .RelPermalink }}" class="page-ref-link">
+        <h1 class="page-ref-header">{{ .Title }}</h1>
+        <div class="page-ref-summary">{{- .Summary -}}</div>
+      </a>
+    </div>
+    {{ end }}
+  </body>
+</html>
