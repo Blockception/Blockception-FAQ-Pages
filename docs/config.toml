@@ -9,3 +9,9 @@ theme = "ananke"
     endLevel = 3
     ordered = false
     startLevel = 0
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    url = "/"

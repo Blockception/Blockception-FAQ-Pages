@@ -6,4 +6,4 @@ draft: false
 
 # Vscode Extension - Minecraft Bedrock
 
-[Json]({{< ref "vscode-extension-mcbe/json.md" >}})
+[Json]({{< relref "json.md" >}})
