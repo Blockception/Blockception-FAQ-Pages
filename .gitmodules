@@ -10,3 +10,6 @@
 [submodule "docs/themes/ananke"]
 	path = docs/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "docs/themes/hugo-clarity"]
+	path = docs/themes/hugo-clarity
+	url = https://github.com/chipzoller/hugo-clarity
