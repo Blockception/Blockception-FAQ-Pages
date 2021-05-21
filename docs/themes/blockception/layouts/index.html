@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
+  {{- partial "head.html" . -}}
   <body>
+    {{ partial "partials/header.html" . }}  
+    
     {{ range first 10 .Data.Pages }}
     <div class="page-ref">
       <a href="{{ .RelPermalink }}" class="page-ref-link">
@@ -9,5 +12,7 @@
       </a>
     </div>
     {{ end }}
+
+    {{- partial "footer.html" . -}}
   </body>
 </html>
