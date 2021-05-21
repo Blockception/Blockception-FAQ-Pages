@@ -1,7 +1,7 @@
 languageCode = "en-us"
 title = "Blockception Developer FAQ"
 
-theme = "docport"
+theme = "blockception"
 
 [markup]
   [markup.tableOfContents]
