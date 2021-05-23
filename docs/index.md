@@ -1,4 +1,4 @@
 # Blockception Developer FAQ
 
-- **[mcproject](./mcproject/mcproject.md)**
-- **[vscode extension minecraft bedrock](./vscode-extension-mcbe/mcproject.md)**
+- **[mcproject](./mcproject/index.md)**
+- **[vscode extension minecraft bedrock](./vscode-extension-mcbe/index.md)**
