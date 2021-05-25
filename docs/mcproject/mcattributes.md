@@ -1,9 +1,3 @@
----
-title: "Minecraft Attributes"
-date: 2021-05-20T10:14:16+02:00
-draft: false
----
-
 This file stores any of the settings/attribtues related to the project. If none attributes are specified, the plugin will fall back onto plugin settings. Make sure the file is
 located at the root of your workspace and named: `.mcattributes`
 

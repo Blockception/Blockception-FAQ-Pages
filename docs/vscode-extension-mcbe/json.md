@@ -1,13 +1,7 @@
----
-title: "Vscode Extension Minecraft Bedrock - Json"
-date: 2021-05-20T10:14:16+02:00
-draft: false
----
-
 ## Not Activated?
 
-Ensure the file follows the nesscary rules for
-[validation / autocomplete](https://github.com/Blockception/VSCode-Bedrock-Development-Extension/blob/main/documentation/Json%20Validation.md).
+1. Ensure the file follows the nesscary rules for
+   [validation / autocomplete](https://github.com/Blockception/VSCode-Bedrock-Development-Extension/blob/main/documentation/Json%20Validation.md).
 
 ## Format Version
 

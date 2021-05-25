@@ -1,9 +1,3 @@
----
-title: "Minecraft ignore"
-date: 2021-05-20T10:14:16+02:00
-draft: false
----
-
 # Mcignore
 
 Based upon `.gitignore`. This file specifies through glob-patterns what files, folder to excluded from the project Make sure the file is located at the root of your workspace and

@@ -1,9 +1,3 @@
----
-title: "Minecraft Definitions"
-date: 2021-05-20T10:14:16+02:00
-draft: false
----
-
 # MCDefinitions
 
 This file specifies anything that is included in the project, but cannot be found in the project files itself, or not easly. At the same time the user can also exclude definitions
