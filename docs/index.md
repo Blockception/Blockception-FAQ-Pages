@@ -2,5 +2,5 @@
 
 ## Topics
 
-- **[mcproject](./mcproject/index.md)**
-- **[vscode extension minecraft bedrock](./vscode-extension-mcbe/index.md)**
+- **[MCProject](./mcproject/index.md)**
+- **[VSCode Extension Minecraft Bedrock](./vscode-extension-mcbe/index.md)**
