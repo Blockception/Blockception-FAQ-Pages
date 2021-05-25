@@ -1,6 +1,6 @@
 # Console
 
-A nesscary part is to check if the extension is activated, or not outputting hunderds of errors.
+A necessary part is to check if the extension is activated or not, outputting hundreds of errors.
 
 ![console](../images/console.png)
 
