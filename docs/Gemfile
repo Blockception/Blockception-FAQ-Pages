@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.2.0"
-gem "slate"
 
 group :jekyll_plugins do
     gem "jekyll-feed"
