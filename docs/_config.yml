@@ -1,3 +1,9 @@
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+
+title: Blockdeption Developer FAQ
+description: FAQ for blockceptions plugins, tools or more.
+
+author:
+  twitter: Blockception
