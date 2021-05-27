@@ -1,5 +1,6 @@
 ---
 title: Minecraft Definitions
+layout: page
 ---
 
 # MCDefinitions

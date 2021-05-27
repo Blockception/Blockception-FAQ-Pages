@@ -1,5 +1,6 @@
 ---
 title: VSCode extension - Minecraft bedrock
+layout: page
 ---
 
 # VSCode extension - Minecraft bedrock

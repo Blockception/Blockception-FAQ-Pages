@@ -1,5 +1,6 @@
 ---
 title: Minecraft Ignores
+layout: page
 ---
 
 # Mcignore

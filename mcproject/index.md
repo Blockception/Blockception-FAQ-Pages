@@ -1,5 +1,6 @@
 ---
 title: Minecraft Project
+layout: page
 ---
 
 # Minecraft project

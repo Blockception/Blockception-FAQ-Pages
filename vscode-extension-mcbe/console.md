@@ -1,5 +1,6 @@
 ---
 title: VSCode-MCBE-Console
+layout: page
 ---
 
 # Console

@@ -1,5 +1,6 @@
 ---
 title: VSCode-MCBE-JSON
+layout: page
 ---
 
 ## Not Activated?
