@@ -8,5 +8,5 @@ layout: page
 
 ## Topics
 
-- **[MCProject](./mcproject/index.html)**
-- **[VSCode Extension Minecraft Bedrock](./vscode-extension-mcbe/index.html)**
+- **[MCProject](./mcproject/index.md)**
+- **[VSCode Extension Minecraft Bedrock](./vscode-extension-mcbe/index.md)**

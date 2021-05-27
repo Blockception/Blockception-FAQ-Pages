@@ -6,7 +6,7 @@ layout: page
 ## Not Activated?
 
 1. Ensure the file follows the nesscary rules for
-   [validation / autocomplete](https://github.com/Blockception/VSCode-Bedrock-Development-Extension/blob/main/documentation/Json%20Validation.html).
+   [validation / autocomplete](https://github.com/Blockception/VSCode-Bedrock-Development-Extension/blob/main/documentation/Json%20Validation.md).
 
 ## Format Version
 
