@@ -1,7 +1,7 @@
 ---
 title: Minecraft Ignores
 layout: page
-parent: mcproject
+parent: Minecraft Project
 ---
 
 # Mcignore

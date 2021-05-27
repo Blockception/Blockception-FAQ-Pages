@@ -1,7 +1,7 @@
 ---
 title: VSCode-MCBE-Console
 layout: page
-parent: vscode-extension-mcbe
+parent: VSCode extension - Minecraft bedrock
 ---
 
 # Console

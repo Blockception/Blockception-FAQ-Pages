@@ -1,7 +1,7 @@
 ---
 title: Minecraft Definitions
 layout: page
-parent: mcproject
+parent: Minecraft Project
 ---
 
 # MCDefinitions
