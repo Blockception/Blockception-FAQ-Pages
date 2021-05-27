@@ -1,6 +1,7 @@
 ---
 title: Minecraft Project
 layout: page
+has_children: true
 ---
 
 # Minecraft project

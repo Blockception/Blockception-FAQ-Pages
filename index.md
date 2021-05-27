@@ -1,6 +1,9 @@
 ---
 title: Blockception Developer FAQ
-layout: page
+description: "A webpage about frequently asked questions for blockception tools"
+nav_order: 0
+layout: default
+permalink: /
 ---
 
 # Blockception Developer FAQ

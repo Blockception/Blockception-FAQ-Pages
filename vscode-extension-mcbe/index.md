@@ -1,6 +1,7 @@
 ---
 title: VSCode extension - Minecraft bedrock
 layout: page
+has_children: true
 ---
 
 # VSCode extension - Minecraft bedrock
