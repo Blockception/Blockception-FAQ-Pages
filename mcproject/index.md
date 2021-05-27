@@ -1,3 +1,7 @@
+---
+title: Minecraft Project
+---
+
 # Minecraft project
 
 The mcproject adds files to a minecraft project that allows users to overrides settings. specify additional information, or excluded sections of the folders

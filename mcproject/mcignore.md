@@ -1,3 +1,7 @@
+---
+title: Minecraft Ignores
+---
+
 # Mcignore
 
 Based upon `.gitignore`. This file specifies through glob-patterns what files, folder to excluded from the project Make sure the file is located at the root of your workspace and

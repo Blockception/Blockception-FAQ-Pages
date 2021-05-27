@@ -1,3 +1,7 @@
+---
+title: Minecraft Attributes
+---
+
 This file stores any of the settings/attribtues related to the project. If none attributes are specified, the plugin will fall back onto plugin settings. Make sure the file is
 located at the root of your workspace and named: `.mcattributes`
 

@@ -1,3 +1,7 @@
+---
+title: VSCode extension - Minecraft bedrock
+---
+
 # VSCode extension - Minecraft bedrock
 
 It is best to always check if the extension is activated, follow the article in [Console](console.md) to enure the extension is running. Then follow the article for either json or

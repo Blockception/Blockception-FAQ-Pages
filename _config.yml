@@ -12,3 +12,12 @@ exclude:
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
   - README.md
+  - Blockception-FAQ-Pages.code-workspace
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+
+markdown: kramdown
+
+kramdown:
+  input: GFM

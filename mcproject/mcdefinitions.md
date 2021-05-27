@@ -1,3 +1,7 @@
+---
+title: Minecraft Definitions
+---
+
 # MCDefinitions
 
 This file specifies anything that is included in the project, but cannot be found in the project files itself, or not easly. At the same time the user can also exclude definitions
@@ -13,6 +17,7 @@ tag=initialized
 tag=calculating
 tag=enemy
 tag=monster
+
 
 ## Tags to be excluded
 tag=!Monster

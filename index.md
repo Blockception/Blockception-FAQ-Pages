@@ -1,3 +1,7 @@
+---
+title: Blockception Developer FAQ
+---
+
 # Blockception Developer FAQ
 
 ## Topics

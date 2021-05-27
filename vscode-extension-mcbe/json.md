@@ -1,3 +1,7 @@
+---
+title: VSCode-MCBE-JSON
+---
+
 ## Not Activated?
 
 1. Ensure the file follows the nesscary rules for

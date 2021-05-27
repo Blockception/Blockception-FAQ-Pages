@@ -1,3 +1,7 @@
+---
+title: VSCode-MCBE-Console
+---
+
 # Console
 
 A necessary part is to check if the extension is activated or not, outputting hundreds of errors.
