@@ -1,6 +1,7 @@
 ---
 title: VSCode-MCBE-JSON
 layout: page
+parent: vscode-extension-mcbe
 ---
 
 ## Not Activated?

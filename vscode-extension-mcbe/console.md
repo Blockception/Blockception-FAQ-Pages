@@ -1,6 +1,7 @@
 ---
 title: VSCode-MCBE-Console
 layout: page
+parent: vscode-extension-mcbe
 ---
 
 # Console

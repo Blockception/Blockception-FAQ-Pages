@@ -1,7 +1,6 @@
 ---
 title: Blockception Developer FAQ
 layout: page
-layout: page
 ---
 
 # Blockception Developer FAQ

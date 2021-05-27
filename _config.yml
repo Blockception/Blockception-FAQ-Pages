@@ -1,6 +1,9 @@
-theme: jekyll-theme-slate
+theme: just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-relative-links
+
+url: https://faq.blockception.dev
 
 title: Blockdeption Developer FAQ
 description: FAQ for blockceptions plugins, tools or more.
