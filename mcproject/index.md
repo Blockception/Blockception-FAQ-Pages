@@ -11,16 +11,16 @@ The mcproject adds files to a minecraft project that allows users to overrides s
 
 Overrides specific settings
 
-- **[.mcattributes](./mcattributes.md)**
+- **[.mcattributes](./mcattributes.html)**
 
 ## Defintions
 
 Include or excluded minecraft specific definitions
 
-- **[.mcdefinitions](./mcdefinitions.md)**
+- **[.mcdefinitions](./mcdefinitions.html)**
 
 ## Ignore
 
 Specifies what to excluded or ignore
 
-- **[.mcignore](./mcignore.md)**
+- **[.mcignore](./mcignore.html)**
