@@ -7,3 +7,8 @@ description: FAQ for blockceptions plugins, tools or more.
 
 author:
   twitter: Blockception
+
+exclude:
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - README.md
