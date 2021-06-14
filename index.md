@@ -8,6 +8,8 @@ permalink: /
 
 # Blockception Developer FAQ
 
+The FAQ page for developer using blockception tools
+
 ## Topics
 
 - **[MCProject](./mcproject/index.md)**
