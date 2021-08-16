@@ -50,9 +50,11 @@ name=!steve
 
 This plugin looks and processes the following definitions
 
-| name      | description |
-| --------- | ----------- |
-| tag       |             |
-| objective |             |
-| name      |             |
-| family    |             |
+| name        | description |
+| ----------- | ----------- |
+| entity      |             |
+| family      |             |
+| name        |             |
+| objective   |             |
+| tag         |             |
+| tickingarea |             |
