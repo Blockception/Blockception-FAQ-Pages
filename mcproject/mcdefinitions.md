@@ -52,9 +52,15 @@ This plugin looks and processes the following definitions
 
 | name        | description |
 | ----------- | ----------- |
+| block       |             |
 | entity      |             |
 | family      |             |
+| function    |             |
+| item        |             |
+| loot_table  |             |
+| item        |             |
 | name        |             |
 | objective   |             |
+| structure   |             |
 | tag         |             |
 | tickingarea |             |

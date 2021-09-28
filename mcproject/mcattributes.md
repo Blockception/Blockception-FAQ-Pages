@@ -29,3 +29,13 @@ This vscode plugin responds to the following settings/attributes/
 | `diagnostic.mcfunction` | Disable or enable diagnostics for mcfunction in this project |
 | `diagnostic.objective`  | Disable or enable diagnostics for objectives in this project |
 | `diagnostic.tag`        | Disable or enable diagnostics for tags in this project       |
+
+## Disabling specific diagnostic codes
+
+syntax:
+
+```
+diagnostic.disable.<code>=false
+
+diagnostic.disable.behaviorpack.entity.missing=false
+```
