@@ -10,7 +10,7 @@ located at the root of your workspace and named: `.mcattributes`
 **Example**
 
 ```ini
-diagnose=true
+diagnostic.enable=true
 diagnose.objectives=true
 diagnose.tags=true
 diagnose.mcfunctions=true
